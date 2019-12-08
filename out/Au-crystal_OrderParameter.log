@@ -1,0 +1,10 @@
+Filename:/Users/lothar/Desktop/diOPA/data/Au-crystal.cel
+- INPUT  Database file: "/Users/lothar/Desktop/diOPA/db/rotation-database_Fcc_30_2.db"
+- Coordination: 12
+- Number of Database items: 225
+Bounding box:{{-3.92006, 3.92006}, {-3.92235, 3.92235}, {-3.92006, 3.92006}}
+- Average distance: 1.61202
+- Median distance: 1.80632
+- Minimum distance: 0.13955
+- Maximum distance: 4.25757
+- Contrast cut off (Min,Max): (0,6)

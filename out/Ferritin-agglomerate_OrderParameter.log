@@ -1,0 +1,10 @@
+Filename:/Users/lothar/Desktop/diOPA/data/Ferritin-agglomerate.cel
+- INPUT  Database file: "/Users/lothar/Desktop/diOPA/db/rotation-database_Fcc_30_2.db"
+- Coordination: 12
+- Number of Database items: 225
+Bounding box:{{-10.8318, 10.8318}, {-8.78118, 8.78118}, {-11.6715, 11.6715}}
+- Average distance: 3.99123
+- Median distance: 3.18869
+- Minimum distance: 1.11856
+- Maximum distance: 26.446
+- Contrast cut off (Min,Max): (0,6)
