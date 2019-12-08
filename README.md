@@ -57,9 +57,9 @@ test_db.nb and evaluate_order.nb require a database file as input. This should b
 
 AUTHOR INFORMATION
 ------------------
-L. Houben, 
-Weizmann Institute of Science
-lothar.houben (at) weizmann.ac.il 
+L. Houben <br />
+Weizmann Institute of Science <br />
+lothar.houben(at)weizmann.ac.il <br />
 
 
 COPYRIGHT
