@@ -1,0 +1,17 @@
+Coordination rotation variants created by create_db.nb
+--------------------------------------------------------
+coordination label         : Bcc
+coordination vectors       : {1/Sqrt[3], 1/Sqrt[3], 1/Sqrt[3]}
+{-(1/Sqrt[3]), -(1/Sqrt[3]), -(1/Sqrt[3])}
+{1/Sqrt[3], 1/Sqrt[3], -(1/Sqrt[3])}
+{-(1/Sqrt[3]), -(1/Sqrt[3]), 1/Sqrt[3]}
+{1/Sqrt[3], -(1/Sqrt[3]), 1/Sqrt[3]}
+{-(1/Sqrt[3]), 1/Sqrt[3], -(1/Sqrt[3])}
+{-(1/Sqrt[3]), 1/Sqrt[3], 1/Sqrt[3]}
+{1/Sqrt[3], -(1/Sqrt[3]), -(1/Sqrt[3])}
+number of neighbours       : 8
+sampling                   : 30
+symmetry                    : 2
+angular tilt increment (rad): Pi/15
+angular range (rad)         : Pi
+number or database items    : 225

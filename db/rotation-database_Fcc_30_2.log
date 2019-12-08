@@ -1,0 +1,21 @@
+Coordination rotation variants created by create_db.nb
+--------------------------------------------------------
+coordination label         : Fcc
+coordination vectors       : {1/Sqrt[2], 1/Sqrt[2], 0}
+{-(1/Sqrt[2]), -(1/Sqrt[2]), 0}
+{1/Sqrt[2], -(1/Sqrt[2]), 0}
+{-(1/Sqrt[2]), 1/Sqrt[2], 0}
+{1/Sqrt[2], 0, 1/Sqrt[2]}
+{-(1/Sqrt[2]), 0, -(1/Sqrt[2])}
+{1/Sqrt[2], 0, -(1/Sqrt[2])}
+{-(1/Sqrt[2]), 0, 1/Sqrt[2]}
+{0, 1/Sqrt[2], 1/Sqrt[2]}
+{0, -(1/Sqrt[2]), -(1/Sqrt[2])}
+{0, 1/Sqrt[2], -(1/Sqrt[2])}
+{0, -(1/Sqrt[2]), 1/Sqrt[2]}
+number of neighbours       : 12
+sampling                   : 30
+symmetry                    : 2
+angular tilt increment (rad): Pi/15
+angular range (rad)         : Pi
+number or database items    : 225
