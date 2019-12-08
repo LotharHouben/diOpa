@@ -35,14 +35,14 @@ Mathematica version 7.0.1 or higher is required, available from www.wolfram.com.
 INSTALLATION 
 -------------
 
-Simply copy the full directory tree into a program folder of your choice. 
+Copy the full directory tree into a program folder of your choice.
 
 
 DIRECTORY STRUCTURE
 ---------------------
 
 The top directory contains the notebooks. 
-The subfolder 'db' is an output folder where create_db.nb stores by defaults its database files. 
+The subfolder 'db' is an output folder where create_db.nb stores by default its database files. 
 The subfolder 'data' contains exemplary xyz atomic cluster files, together with a description of the file format. 
 The subfolder 'out' is used by evaluate_order.nb and evaluate_density.nb for data and graphics file output.
 The subfolder 'extra' contains the pdf output of exemplary notebook evaluations. 
@@ -65,7 +65,7 @@ lothar.houben(at)weizmann.ac.il <br />
 COPYRIGHT
 --------- 
 
-This software is licensed under the GNU GENERAL PUBLIC LICENSE Version 3. 
+This software is licensed under the GNU GENERAL PUBLIC LICENSE Version 3. <br />
 The full license text can be found in the LICENSE file. 
 
 
