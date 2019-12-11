@@ -30,12 +30,13 @@ REQUIREMENTS
 ------------
 
 Mathematica version 7.0.1 or higher is required, available from www.wolfram.com.
+Mathematica is available for Windows, Mac, and Linux.
 
 
 INSTALLATION 
 -------------
 
-Copy the full directory tree into a program folder of your choice.
+Choose the 'master' branch and click on 'Clone or download', dowload diOPA as a zip package and unpack the full directory tree into a program folder of your choice. This procedure should take few seconds only.
 
 
 DIRECTORY STRUCTURE
